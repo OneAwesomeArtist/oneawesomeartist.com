@@ -1,5 +1,6 @@
-title: My Portfolio
-email: contact@oneawesomeartist.com
-description: A portfolio showcasing my work
+title: One Awesome Artist
+email: Karl@oneawesomeartist.com
+description: Custom Art | 3D Prints 
+theme: jekyll-theme-cayman
 baseurl: ""
 url: "http://oneawesomeartist.com"
